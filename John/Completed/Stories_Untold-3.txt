@@ -1,0 +1,22 @@
+Title: Stories Untold
+
+Rating: 3/10
+
+Ownership: Steam - PC
+
+Hours Played: 2 Hours
+
+Start Date: 4/30/18
+
+Finish Date: 5/1/18
+
+Thoughts:
+This game at its core is severly flawed. While the premise of a Zork style adventure inside of a 3D horror game 
+could possibly work, the actual implementation is awful. Zork has a more robust and responsive vocab libary and 
+it was one of the first PC games ever created. This game's input commands are hyper specific and I 100% would not 
+think of them unless I looked them up. All cutscenes are unskipable, and you can't interact with anything until 
+people are done talking. The story was a very stupid attempt at some sort of Stranger Things esque 80's horror piece 
+but falls flat on all fronts. Even the guides the game gives you are unhelpful and poorly designed. Worst of all, they
+couldn't even take the time to give the game a proper icon (it uses the Unity logo) The game also boots out of Unity
+which I find both sad and nonprofessional from a publisher like Devolver Digital. I do not recommend playing
+or buying this game, even though it is cheap it is not worth your time.
